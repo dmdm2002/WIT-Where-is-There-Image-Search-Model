@@ -1,0 +1,5 @@
+다운로드 주소
+https://drive.google.com/drive/folders/16Ex42HQByVeXQCwA1u6xUcdc1uC8Jcqi?usp=sharing
+
+resnet101_Keyword_BN_FeatureWeight_i0.95_k0.05_quantized.onnx 를 설치
+해당 폴더에 그대로 넣어주세요
